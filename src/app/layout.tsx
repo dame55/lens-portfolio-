@@ -4,7 +4,7 @@ import { ThemeProvider } from '@/components/theme-provider';
 import { Toaster } from '@/components/ui/toaster';
 
 export const metadata: Metadata = {
-  title: 'LensAI Portfolio',
+  title: 'Jossy Photography',
   description: 'Portfolio of a professional graphic designer and photographer, powered by AI.',
 };
 

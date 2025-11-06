@@ -33,7 +33,7 @@ export function AboutSection() {
                         <h2 className="font-headline text-3xl md:text-4xl font-bold mb-6">About The Artist</h2>
                         <div className="space-y-4 text-muted-foreground">
                             <p>
-                                Hi, I'm Alex Doe, a passionate and detail-oriented graphic designer and photographer with over a decade of experience in turning ideas into impactful visual stories. My work is driven by a love for clean aesthetics, compelling narratives, and the power of an image to evoke emotion.
+                                Hi, I'm Jossy Chala, a passionate and detail-oriented graphic designer and photographer with over a decade of experience in turning ideas into impactful visual stories. My work is driven by a love for clean aesthetics, compelling narratives, and the power of an image to evoke emotion.
                             </p>
                             <p>
                                 From crafting unique brand identities for startups to capturing fleeting moments in the urban jungle, I approach every project with curiosity and a commitment to excellence. I believe great design is not just about looking good—it's about clear communication and creating a lasting connection with the audience.
