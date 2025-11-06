@@ -1,3 +1,52 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "A portrait of a pensive artist in a dimly lit studio, looking thoughtfully towards the light.",
+      "imageUrl": "https://images.unsplash.com/photo-1475118258341-d2a655a5b11a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxkZXNpZ25lciUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjQxNjkyNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "designer portrait"
+    },
+    {
+      "id": "portfolio-1",
+      "title": "Abstract Geometry",
+      "description": "A series of posters exploring abstract geometric shapes and color theory.",
+      "imageUrl": "https://images.unsplash.com/photo-1619840153283-50217ebb23e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxhYnN0cmFjdCUyMGdyYXBoaWN8ZW58MHx8fHwxNzYyMzkyNTAxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract graphic"
+    },
+    {
+      "id": "portfolio-2",
+      "title": "Urban Exploration",
+      "description": "Street photography capturing the raw, candid energy of the city at night.",
+      "imageUrl": "https://images.unsplash.com/photo-1620004071518-52531ff9162c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjaXR5JTIwc3RyZWV0fGVufDB8fHx8MTc2MjM5Njg4Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "city street"
+    },
+    {
+      "id": "portfolio-3",
+      "title": "Minimalist Branding",
+      "description": "Brand identity for a luxury fashion label, focusing on clean lines and minimalism.",
+      "imageUrl": "https://images.unsplash.com/photo-1645782068569-2d889782ee61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtaW5pbWFsaXN0JTIwbG9nb3xlbnwwfHx8fDE3NjIzMTYwNzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "minimalist logo"
+    },
+    {
+      "id": "portfolio-4",
+      "title": "Nature's Palette",
+      "description": "Landscape photography from the misty Scottish Highlands.",
+      "imageUrl": "https://images.unsplash.com/photo-1601281426795-9fedf41df8d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtb3VudGFpbiUyMGxhbmRzY2FwZXxlbnwwfHx8fDE3NjIzNTk4MjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mountain landscape"
+    },
+    {
+      "id": "portfolio-5",
+      "title": "Kinetic Typography",
+      "description": "An animated short film using kinetic typography to tell a compelling story.",
+      "imageUrl": "https://images.unsplash.com/photo-1701696934141-46cbca13b650?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx0eXBvZ3JhcGh5JTIwYW5pbWF0aW9ufGVufDB8fHx8MTc2MjQyOTI5MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "typography animation"
+    },
+    {
+      "id": "portfolio-6",
+      "title": "Product Visualization",
+      "description": "3D rendering and visualization for a new line of consumer electronics.",
+      "imageUrl": "https://images.unsplash.com/photo-1698913464299-23c426d5c555?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwcm9kdWN0JTIwcmVuZGVyfGVufDB8fHx8MTc2MjQyOTI5MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "product render"
+    }
+  ]
 }
